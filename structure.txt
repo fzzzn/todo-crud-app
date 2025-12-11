@@ -1,0 +1,19 @@
+todo-crud-next/
+├── src/
+│   ├── app/
+│   │   ├── api/
+│   │   │   └── todos/
+│   │   │       └── route.ts
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   ├── types/
+│       └── todo.ts
+│   └── lib/
+│       └── prisma.ts
+├── prisma/
+│   ├── schema.prisma
+│   └── migrations/
+├── .env.local
+├── package.json
+└── next.config.js
